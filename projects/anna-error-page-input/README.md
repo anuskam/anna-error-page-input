@@ -7,6 +7,7 @@ You can install the component via npm:
 
 ```bash
 npm install anna-error-page-input
+```
 
 ## Redirection Configuration
 To redirect users to a specific URL when an error occurs, pass the URL as a parameter named routerLink in your application's URL.
